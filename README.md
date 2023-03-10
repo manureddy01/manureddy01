@@ -6,9 +6,9 @@
 <h5 align="center"> Currently pursuing Btech in CSE BDA at SRM University KTR</h5>
 <p align= "center">
 
-I've always been interested in technology and its ability to transform the world around us. As I've learned more about web development and AI, I've become increasingly excited about the potential of these fields to create innovative, data-driven solutions to complex problems.
+I've always been interested in technology and its ability to transform the world around us. As I've learned more about web development and BDA, I've become increasingly excited about the potential of these fields to create innovative, data-driven solutions to complex problems.
 
-In my free time, I love experimenting with different programming languages and frameworks, and have completed several personal projects that showcase my skills in web development and AI.</p> 
+In my free time, I love experimenting with different programming languages and frameworks, and have completed several personal projects that showcase my skills in web development and BDA.</p> 
 
 
 - 🔭 I’m currently working on Front End Web Development
@@ -17,7 +17,7 @@ In my free time, I love experimenting with different programming languages and f
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 🌐 Web Development
-  - 🛠 Machine Learning
+  - Big Data Analytics
 - 👯 I’m looking to collaborate on making projects with Front and Back end Web development
 - 💬 Ask me about Python, C , C++ , HTML , CSS , JAVASCRIPT
 
